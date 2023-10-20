@@ -27,6 +27,7 @@
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2>📚 Research Paper</h2>
+<h2>📜 Certifications</h2>
 
 <h2> 🤳 Connect with me:</h2>
 

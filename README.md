@@ -3,7 +3,7 @@
 <h2>🕵️‍♂️ Digital Forensics:</h2>
 
 - <b>Cyber Forensics Labs</b>
-  - [CTF Challenge](https://github.com/analyst133/Digital-Forensics/blob/main/CTF%20Challenge.md)
+  - [CTF Challenge](https://github.com/analyst133/Digital-Forensics/blob/main/CTF%20Challenge.md) <b><i>(Data Exfiltration of Sensitive Information)</b></i>
   - [Bag & Tag](https://github.com/analyst133/Digital-Forensics/blob/main/Bag%20&%20Tag.md)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>

@@ -10,7 +10,10 @@
 <h2>🔂 Networks</h2>
 <h2>📚 Research Paper</h2>
 <h2>📜 Certifications</h2>
+<h2> 🤳 Connect with me:</h2>
 
+[<img align="left" alt="JoshMadakor | FaceBook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [facebook]: https://www.facebook.com/khajataiyabmohiuddin/
 [linkedin]: https://linkedin.com/in/khaja-taiyab-mohiuddin/

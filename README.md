@@ -2,7 +2,7 @@
 
 <h2>🕵️‍♂️ Digital Forensics:</h2>
 
-- <b>Cyber Forensics Labs</b>
+- <b>Cyber Forensic Labs</b>
   - [CTF Challenge](https://github.com/analyst133/Digital-Forensics/blob/main/CTF%20Challenge.md) <b><i>(Data Exfiltration of Sensitive Information)</b></i>
   - [Bag & Tag](https://github.com/analyst133/Digital-Forensics/blob/main/Bag%20&%20Tag.md) <b><i>(Collecting Evidence from Crime Scene)</b></i>
   - [Data Acquisition](https://github.com/analyst133/Digital-Forensics/blob/main/Data%20Acquisition.md) <b><i>(Capturing Evidence)</b></i>

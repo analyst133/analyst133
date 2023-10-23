@@ -14,7 +14,7 @@
 <h2>📚 Research Paper</h2>
 
 - <b>Computer Security</b>
-  - [CTF Challenge](https://github.com/analyst133/Digital-Forensics/blob/main/CTF%20Challenge.md) <b><i>(Data Exfiltration of Sensitive Information)</b></i>
+  - [Mobile Device Management](https://github.com/analyst133/Research-Papers/blob/main/Computer%20Security.md) <b><i>(Features, Elements, Security Concerns and Implementation)</b></i>
 - <b>Wireless Networks</b>
   - [CTF Challenge](https://github.com/analyst133/Digital-Forensics/blob/main/CTF%20Challenge.md) <b><i>(Data Exfiltration of Sensitive Information)</b></i>
 <h2>📜 Certifications</h2>

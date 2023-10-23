@@ -6,6 +6,7 @@
   - [CTF Challenge](https://github.com/analyst133/Digital-Forensics/blob/main/CTF%20Challenge.md) <b><i>(Data Exfiltration of Sensitive Information)</b></i>
   - [Bag & Tag](https://github.com/analyst133/Digital-Forensics/blob/main/Bag%20&%20Tag.md) <b><i>(Collecting Evidence from Crime Scene)</b></i>
   - [Data Acquisition](https://github.com/analyst133/Digital-Forensics/blob/main/Data%20Acquisition.md) <b><i>(Capturing Evidence)</b></i>
+  - [Analysis with Cyberforensic Tools](https://github.com/analyst133/Digital-Forensics/blob/main/Cyberforensic%20Tools.md) <b><i>(Suspected Mass Casualty Event)</b></i>
 
 <h2>🔂 Networks</h2>
 <h2>📚 Research Paper</h2>

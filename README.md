@@ -1,6 +1,6 @@
 <h1>Hi, I'm Tai! <br/><a href="https://github.com/analyst133">Cybersecurity Graduate</a>, <a href="https://www.linkedin.com/in/khaja-taiyab-mohiuddin/">Ex Entrepreneur</a> </h1>
 
-<h2>📜 Digital Forensics:</h2>
+<h2>🕵️‍♂️ Digital Forensics:</h2>
 
 - <b>Cyber Forensics Labs</b>
   - [CTF Challenge](https://github.com/analyst133/Digital-Forensics/blob/main/CTF%20Challenge.md)

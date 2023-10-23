@@ -18,7 +18,9 @@
 - <b>Computer Security</b>
   - [Mobile Device Management](https://github.com/analyst133/Research-Papers/blob/main/Computer%20Security.md) <b><i>(Features, Elements, Security Concerns and Implementation)</b></i>
 - <b>Wireless Networks</b>
-  - [CTF Challenge](https://github.com/analyst133/Digital-Forensics/blob/main/CTF%20Challenge.md) <b><i>(Data Exfiltration of Sensitive Information)</b></i>
+  - [The 5th Generation Wireless Network 5G.](https://github.com/analyst133/Research-Papers/blob/main/The%205th%20Generation%20Wireless%20Network%205G.md) <b><i>(Evolution of 5G Network)</b></i>
+- <b>Ethical Hacking</b>
+  - [Security Architecture](https://github.com/analyst133/Research-Papers/blob/main/Security%20Architecture.md) <b><i>(History, Usage and How it Benefits Ethical Hackers )</b></i>
 <h2>📜 Certifications</h2>
 <h2> 🤳 Connect with me:</h2>
 

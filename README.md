@@ -9,7 +9,14 @@
   - [Analysis with Cyberforensic Tools](https://github.com/analyst133/Digital-Forensics/blob/main/Cyberforensic%20Tools.md) <b><i>(Suspected Mass Casualty Event)</b></i>
 
 <h2>🔂 Networks</h2>
+
+
 <h2>📚 Research Paper</h2>
+
+- <b>Computer Security</b>
+  - [CTF Challenge](https://github.com/analyst133/Digital-Forensics/blob/main/CTF%20Challenge.md) <b><i>(Data Exfiltration of Sensitive Information)</b></i>
+- <b>Wireless Networks</b>
+  - [CTF Challenge](https://github.com/analyst133/Digital-Forensics/blob/main/CTF%20Challenge.md) <b><i>(Data Exfiltration of Sensitive Information)</b></i>
 <h2>📜 Certifications</h2>
 <h2> 🤳 Connect with me:</h2>
 

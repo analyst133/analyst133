@@ -2,7 +2,7 @@
 
 <h2>📜 Digital Forensics:</h2>
 
-- <b>Cyber Forensics</b>
+- <b>Cyber Forensics Labs</b>
   - [CTF Challenge](https://github.com/analyst133/Digital-Forensics/blob/main/CTF%20Challenge.md)
   - [Bag & Tag](https://github.com/analyst133/Digital-Forensics/blob/main/Bag%20&%20Tag.md)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>

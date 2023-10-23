@@ -7,6 +7,8 @@
   - [Bag & Tag](https://github.com/analyst133/Digital-Forensics/blob/main/Bag%20&%20Tag.md) <b><i>(Collecting Evidence from Crime Scene)</b></i>
   - [Data Acquisition](https://github.com/analyst133/Digital-Forensics/blob/main/Data%20Acquisition.md) <b><i>(Capturing Evidence)</b></i>
   - [Analysis with Cyberforensic Tools](https://github.com/analyst133/Digital-Forensics/blob/main/Cyberforensic%20Tools.md) <b><i>(Suspected Mass Casualty Event)</b></i>
+  - [Email Forensics](https://github.com/analyst133/Digital-Forensics/blob/main/Email%20Forensics.md) <b><i>(Email Header Analysis)</b></i>
+  - [Network Forensics](https://github.com/analyst133/Digital-Forensics/blob/main/Network%20Forensics.md) <b><i>(How to Trace Network Attack)</b></i>
 
 <h2>🔂 Networks</h2>
 

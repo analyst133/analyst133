@@ -13,7 +13,10 @@
 - <b>Memory Forensics</b>
   - [CTF Challenge](https://github.com/analyst133/Digital-Forensics/blob/main/Memory%20Forensics.md) <b><i>(Investigating Illegal File Transferring)</b></i>
 - <b>Small Scale Forensics</b>
-  - [CTF Challenge](https://github.com/analyst133/Digital-Forensics/blob/main/Memory%20Forensics.md) <b><i>(Investigating Illegal File Transferring)</b></i>
+  - [Small Scale Forensics Bag & Tag](https://github.com/analyst133/Digital-Forensics/blob/main/SSF%20Bag%20and%20Tag.md) <b><i>(Collecting Physical, Electronic and Digital Evidence)</b></i>
+  - [Small Scale Forensics Bag & Tag](https://github.com/analyst133/Digital-Forensics/blob/main/SSF%20Bag%20and%20Tag.md) <b><i>(Collecting Physical, Electronic and Digital Evidence)</b></i>
+  - [Small Scale Forensics Bag & Tag](https://github.com/analyst133/Digital-Forensics/blob/main/SSF%20Bag%20and%20Tag.md) <b><i>(Collecting Physical, Electronic and Digital Evidence)</b></i>
+  - [Small Scale Forensics Bag & Tag](https://github.com/analyst133/Digital-Forensics/blob/main/SSF%20Bag%20and%20Tag.md) <b><i>(Collecting Physical, Electronic and Digital Evidence)</b></i>
   
 <h2>🔂 Networks</h2>
 

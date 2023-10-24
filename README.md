@@ -11,7 +11,7 @@
   - [Network Forensics](https://github.com/analyst133/Digital-Forensics/blob/main/Network%20Forensics.md) <b><i>(How to Trace Network Attack)</b></i>
 
 - <b>Memory Forensics</b>
-  - [CTF Challenge](https://github.com/analyst133/Digital-Forensics/blob/main/CTF%20Challenge.md) <b><i>(Investigating Illegal File Transferring)</b></i>
+  - [CTF Challenge](https://github.com/analyst133/Digital-Forensics/blob/main/Memory%20Forensics.md) <b><i>(Investigating Illegal File Transferring)</b></i>
   
 <h2>🔂 Networks</h2>
 

@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tai! <br/><a href="https://github.com/analyst133">Cybersecurity Graduate</a>, <a href="https://www.linkedin.com/in/khaja-taiyab-mohiuddin/">Ex Entrepreneur</a> </h1>
+<h1>Hi, I'm Tai! <br/><a href="https://github.com/analyst133">Cybersecurity Graduate</a>, <a href="https://www.linkedin.com/in/khaja-taiyab-mohiuddin/">LinkedIn Profile</a> </h1>
 
 <h2>🕵️‍♂️ Digital Forensics:</h2>
 

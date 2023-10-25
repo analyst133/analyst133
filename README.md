@@ -41,6 +41,8 @@
 
 <h2>📜 Certifications</h2>
 
+- <b>Credly Profile</b>
+  - <a href="https://www.credly.com/users/khaja-mohiuddin.96b96e16/badges">All Credly Badges</a> <b><i>(External Link)</b></i>
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | FaceBook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]

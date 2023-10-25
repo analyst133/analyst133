@@ -9,14 +9,14 @@
   - [Analysis with Cyberforensic Tools](https://github.com/analyst133/Digital-Forensics/blob/main/Cyberforensic%20Tools.md) <b><i>(Suspected Mass Casualty Event)</b></i>
   - [Email Forensics](https://github.com/analyst133/Digital-Forensics/blob/main/Email%20Forensics.md) <b><i>(Email Header Analysis)</b></i>
   - [Network Forensics](https://github.com/analyst133/Digital-Forensics/blob/main/Network%20Forensics.md) <b><i>(How to Trace Network Attack)</b></i>
-- <b>Memory Forensics</b>
-  - [CTF Challenge](https://github.com/analyst133/Digital-Forensics/blob/main/Memory%20Forensics.md) <b><i>(Investigating Illegal File Transferring)</b></i>
 - <b>Small Scale Forensics</b>
   - [Small Scale Forensics Bag & Tag](https://github.com/analyst133/Digital-Forensics/blob/main/SSF%20Bag%20and%20Tag.md) <b><i>(Collecting Physical, Electronic and Digital Evidence)</b></i>
   - [Android Extraction Method](https://github.com/analyst133/Digital-Forensics/blob/main/Android%20Extraction.md) <b><i>(Acquiring and Analyzing Android Devices)</b></i>
   - [Android CTF Challenge](https://github.com/analyst133/Digital-Forensics/blob/main/Android%20CTF.md) <b><i>(Capture the Flag)</b></i>
   - [Imaging iPhone](https://github.com/analyst133/Digital-Forensics/blob/main/Imaging%20Iphone.md) <b><i>(Analysis & Research of the iOS Applications)</b></i>
-  - [iOS and Android CTF Challenge](https://github.com/analyst133/Digital-Forensics/blob/main/iOS%20and%20Android%20CTF.md) <b><i>(Capture the Flag)</b></i>                                                                                                                                                        
+  - [iOS and Android CTF Challenge](https://github.com/analyst133/Digital-Forensics/blob/main/iOS%20and%20Android%20CTF.md) <b><i>(Capture the Flag)</b></i>
+- <b>Memory Forensics</b>
+  - [CTF Challenge](https://github.com/analyst133/Digital-Forensics/blob/main/Memory%20Forensics.md) <b><i>(Investigating Illegal File Transferring)</b></i>                                                                                                                                                       
  <h2>🔂 Networks</h2>
 
 - <b>Network Defense Labs</b>

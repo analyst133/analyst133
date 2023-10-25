@@ -25,6 +25,10 @@
   - [CTF Challenge](https://github.com/analyst133/Digital-Forensics/blob/main/Memory%20Forensics.md) <b><i>(Investigating Illegal File Transferring)</b></i>
 - <b>Wireless Networks Labs</b>
   - [Routing Information Protocol](https://github.com/analyst133/Networks/blob/main/RIP.md) <b><i>(Setup of Hardware in Virtual Mode)</b></i>
+  - [Wireless Network Configuration](https://github.com/analyst133/Networks/blob/main/Wireless%20Network%20Configuration.md) <b><i>(Wireless Router Administration, Adding Security, Internet Setup)</b></i>
+  - [Stand Alone Access Point Setup](https://github.com/analyst133/Networks/blob/main/Stand%20Alone%20Access%20Point%20Setup.md) <b><i>(Access Point Configuration)</b></i>
+  - [Configure Wireless Security](https://github.com/analyst133/Networks/blob/main/Configure%20Wireless%20Security.md) <b><i>(Configuring Cisco Access Point to Broadcast a Wireless Signal)</b></i>
+  - [Routing Information Protocol](https://github.com/analyst133/Networks/blob/main/RIP.md) <b><i>(Setup of Hardware in Virtual Mode)</b></i>
 
 <h2>📚 Research Paper</h2>
 

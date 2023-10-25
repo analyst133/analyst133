@@ -24,7 +24,7 @@
 - <b>Network Defense Labs</b>
   - [CTF Challenge](https://github.com/analyst133/Digital-Forensics/blob/main/Memory%20Forensics.md) <b><i>(Investigating Illegal File Transferring)</b></i>
 - <b>Wireless Networks Labs</b>
-  - [Small Scale Forensics Bag & Tag](https://github.com/analyst133/Digital-Forensics/blob/main/SSF%20Bag%20and%20Tag.md) <b><i>(Collecting Physical, Electronic and Digital Evidence)</b></i>
+  - [Routing Information Protocol](https://github.com/analyst133/Networks/blob/main/RIP.md) <b><i>(Setup of Hardware in Virtual Mode)</b></i>
 
 <h2>📚 Research Paper</h2>
 

@@ -9,7 +9,6 @@
   - [Analysis with Cyberforensic Tools](https://github.com/analyst133/Digital-Forensics/blob/main/Cyberforensic%20Tools.md) <b><i>(Suspected Mass Casualty Event)</b></i>
   - [Email Forensics](https://github.com/analyst133/Digital-Forensics/blob/main/Email%20Forensics.md) <b><i>(Email Header Analysis)</b></i>
   - [Network Forensics](https://github.com/analyst133/Digital-Forensics/blob/main/Network%20Forensics.md) <b><i>(How to Trace Network Attack)</b></i>
-
 - <b>Memory Forensics</b>
   - [CTF Challenge](https://github.com/analyst133/Digital-Forensics/blob/main/Memory%20Forensics.md) <b><i>(Investigating Illegal File Transferring)</b></i>
 - <b>Small Scale Forensics</b>
@@ -17,9 +16,8 @@
   - [Android Extraction Method](https://github.com/analyst133/Digital-Forensics/blob/main/Android%20Extraction.md) <b><i>(Acquiring and Analyzing Android Devices)</b></i>
   - [Android CTF Challenge](https://github.com/analyst133/Digital-Forensics/blob/main/Android%20CTF.md) <b><i>(Capture the Flag)</b></i>
   - [Imaging iPhone](https://github.com/analyst133/Digital-Forensics/blob/main/Imaging%20Iphone.md) <b><i>(Analysis & Research of the iOS Applications)</b></i>
-  - [iOS and Android CTF Challenge](https://github.com/analyst133/Digital-Forensics/blob/main/iOS%20and%20Android%20CTF.md) <b><i>(Capture the Flag)</b></i>                                                                                                                                                           
-  
-<h2>🔂 Networks</h2>
+  - [iOS and Android CTF Challenge](https://github.com/analyst133/Digital-Forensics/blob/main/iOS%20and%20Android%20CTF.md) <b><i>(Capture the Flag)</b></i>                                                                                                                                                        
+ <h2>🔂 Networks</h2>
 
 - <b>Network Defense Labs</b>
   - [Packet Crafting with Scapy](https://github.com/analyst133/Networks/blob/main/Packet%20Crafting%20with%20Scapy.md) <b><i>(Crafting TCP SYN Segments with Payload using Scapy)</b></i>
@@ -40,7 +38,9 @@
   - [The 5th Generation Wireless Network 5G.](https://github.com/analyst133/Research-Papers/blob/main/The%205th%20Generation%20Wireless%20Network%205G.md) <b><i>(Evolution of 5G Network)</b></i>
 - <b>Ethical Hacking</b>
   - [Security Architecture](https://github.com/analyst133/Research-Papers/blob/main/Security%20Architecture.md) <b><i>(History, Usage and How it Benefits Ethical Hackers )</b></i>
+
 <h2>📜 Certifications</h2>
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | FaceBook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]

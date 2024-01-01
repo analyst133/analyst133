@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tai! <br/><a href="https://github.com/analyst133">Cybersecurity Graduate</a>, <a href="https://github.com/analyst133">CySA+ Certified</a> </h1>
+<h1>Hi, I'm Tai! <br/><a href="https://github.com/analyst133">Cybersecurity Graduate</a>, <a href="https://github.com/analyst133">CASP+ Certified</a> </h1>
 
 <h2>🕵️‍♂️ Digital Forensics:</h2>
 
